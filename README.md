@@ -1,3 +1,6 @@
-# Explorando-o-ngular
+# Aprendendo a estrutura do Ângular no stackblitz
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-4hrhb2)
+- Composição de Componentes
+- Escorpo
+- Interpolação de Dados
+- Data Bindings
